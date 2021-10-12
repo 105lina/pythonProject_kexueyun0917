@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="0" hostname="KR9PWEF5QAEANMI" name="pytest" skipped="0" tests="1" time="0.759" timestamp="2021-09-28T16:30:27.857124"><testcase classname="cases.cases_mine.test_project.Test_mine" name="test_EditPro" time="0.711" /></testsuite></testsuites>
